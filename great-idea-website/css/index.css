@@ -64,3 +64,132 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+.container {
+	justify-content: center;
+	align-content: center;
+	width: 900px;
+}
+
+body {
+	max-width: 900px;
+	width: 100%;
+	margin: 0 auto;
+}
+
+.navbar {
+	width: 100%;
+	margin-bottom: 50px;
+	background-color: white;
+	position: fixed;
+	top: 0;
+
+}
+ul{
+	margin-top: 50px;
+	align-content: center;
+}
+li{
+	margin-left: 15px;
+	margin-right: 10px;
+	display: inline-block;
+}
+h1{
+	height: 379px;
+	width: 379px;
+	padding: 0px;
+	font-size: 99px;
+	margin: 150px 100px 0px 25px;
+	align-content: center;
+	text-align: center;
+	vertical-align: top;
+	display: inline-block;
+	
+}
+
+
+.logo {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.header-btn {
+	height: 30px;
+	width: 120px;
+	border: 1px solid black;
+	display: inline-block;
+	margin: 0px 0px 100px 150px;
+	
+}
+
+a {
+	margin: 20px;
+	text-decoration: none;
+	color: grey;
+}
+
+
+.header-img {
+	vertical-align: top;
+	margin-top: 150px;
+	display : inline-block;
+}
+
+section.features {
+	width: 350px;
+	margin: 25px;
+	display: inline-block;
+}
+
+section.about {
+	width: 350px;
+	margin: 25px;
+	display: inline-block;
+}
+
+section.services{
+	width: 225px;
+	margin: 25px;
+	display: inline-block;
+
+}
+
+section.product{
+	width: 225px;
+	margin: 25px;
+	display: inline-block;
+
+}
+
+section.vision{
+	width: 225px;
+	margin: 25px;
+	display: inline-block;
+
+}
+
+footer{
+	margin: 0px 0px 10px 25px;
+}
+
+.address {
+	height: 50px;
+	width: 200px;
+	margin: 0px 0px 0px 0px;
+}
+
+.phone {
+	height: 30px;
+	width: 150px;
+	margin: 0px 0px 0px 0px;
+}
+
+.email{
+	height: 30px;
+	width: 150;
+	margin: 0px 0px 0px 0px;
+}
+
+
+.copyright{
+	text-align: center;
+}
